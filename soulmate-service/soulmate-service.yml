@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: soulmateService
+  data:
+    mongodb:
+      database: soulmateDB
+      uri: mongodb://localhost:27017/
+server:
+  port: 64200
+  error:
+    include-message: always
