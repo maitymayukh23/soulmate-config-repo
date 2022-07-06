@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: soulmateService
   data:
     mongodb:
       database: soulmateDB
