@@ -2,7 +2,7 @@ server:
   port: 64100
 spring:
   datasource:
-    uri: jdbc.mysql://localhost:3306/soulmateDB
+    url: jdbc.mysql://localhost:3306/soulmateDB
     username: root
     password: Root@5222
   jpa:
